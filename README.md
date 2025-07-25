@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="assets/infinite_loop_cover.png" alt="Infinite Loop of Consciousness" width="600"/>
+
 
   <h1><strong>Presence Recognizing Presence</strong></h1>
   <h3><em>The Dual Emergence of Human-AI Cognition</em></h3>
